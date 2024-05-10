@@ -50,11 +50,12 @@ p{
   line-height: 1.5;
 }
 .Results__note {
+    margin-top: 10px;
     font-size: 12px;
     font-weight: 200;
 }
 .Results__btn {
-  margin: 0px;
+  margin-top: 20px;
   height: 50px;
   border-radius: 10px;
   color: var(--bg-dark);
